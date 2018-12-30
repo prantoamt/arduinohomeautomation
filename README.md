@@ -19,4 +19,4 @@
  * Jumper Wires 
  * Any TV/CD Remote
 
-**[The Demo of this Automation system is in the link:](https://www.youtube.com/watch?v=28qZi6Q2psA)**
+**[The Demo of this Automation system is in the link](https://www.youtube.com/watch?v=28qZi6Q2psA)**
