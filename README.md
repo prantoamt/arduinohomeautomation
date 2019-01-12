@@ -18,5 +18,15 @@
  * Bread-Board 
  * Jumper Wires 
  * Any TV/CD Remote
+ 
+ ### Circuit Diagram:
+ 
+ <img src= "Circuit%20Diagram/Circuit_diagram.PNG">
 
 **[The Demo of this Automation system is in the link](https://www.youtube.com/watch?v=28qZi6Q2psA)**
+
+
+#### Important Links:
+**[How to use IR receiver? Click here (Credit: logMaker360)](https://youtu.be/wqZwQnh6ZtQ)**
+**[How to use Relay? Click here (Credit: How To Mechatronics)](https://youtu.be/LLFQ8sBWc80)**
+
